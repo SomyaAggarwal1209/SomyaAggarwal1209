@@ -20,6 +20,12 @@
 
 ###
 
+[![Somya's GitHub | Stats](https://stats.quira.sh/Somya/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Somya)
+
+[![Somya's GitHub | Languages Over Time](https://stats.quira.sh/Somya/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Somya)
+
+###
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -51,4 +57,5 @@
 </div>
 
 ###
+
 
